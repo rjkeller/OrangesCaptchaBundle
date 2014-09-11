@@ -1,3 +1,6 @@
 {
-    "name": "rjkeller/OrangesCaptchaBundle"
+    "name": "rjkeller/OrangesCaptchaBundle",
+    "autoload": {
+        "psr-0": { "": "/" }
+    }
 }
